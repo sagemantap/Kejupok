@@ -17,12 +17,12 @@
   "bind": [
     {
       "host": "165.232.164.221",
-      "port": 5689,
+      "port": 1863,
       "tls": false
     },
     {
       "host": "::",
-      "port": 5689,
+      "port": 1863,
       "tls": false
     }
   ],
@@ -34,7 +34,7 @@
   "pools": [
     {
       "algo": null,
-      "url": "asia.hashvault.pro:443",
+      "url": "eu.hashvault.pro:443",
       "user": "88B9kE1QUVvKNMYs23F2yUToYsFiSBZvt46VmT8UEjN1GyNc18mntaSX5Sx13VX6834oWtsUoS7zeWzNQvCDRzeZJ2ZaoPF",
       "pass": "Danis",
       "rig-id": null,
