@@ -16,12 +16,12 @@
   "background": false,
   "bind": [
     {
-      "host": "0.0.0.0",
+      "host": "165.232.164.221",
       "port": 5689,
       "tls": false
     },
     {
-      "host": "165.232.164.221",
+      "host": "::",
       "port": 5689,
       "tls": false
     }
