@@ -34,7 +34,7 @@
   "pools": [
     {
       "algo": null,
-      "url": "pool.hashvault.pro:443",
+      "url": "asia.hashvault.pro:443",
       "user": "88B9kE1QUVvKNMYs23F2yUToYsFiSBZvt46VmT8UEjN1GyNc18mntaSX5Sx13VX6834oWtsUoS7zeWzNQvCDRzeZJ2ZaoPF",
       "pass": "Danis",
       "rig-id": null,
