@@ -16,7 +16,7 @@
   "background": false,
   "bind": [
     {
-      "host": "165.232.164.221",
+      "host": "206.189.87.80",
       "port": 1863,
       "tls": false
     },
